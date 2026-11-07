@@ -3,4 +3,6 @@
 *.swo
 *.un~
 *~
+# Temporary test files
+*.txt
 
