@@ -6,3 +6,5 @@
 # Temporary test files
 *.txt
 
+# CSV test files
+*.csv
